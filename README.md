@@ -9,7 +9,7 @@ Herkese merhaba ben Feyyaz, react ile geliştirmiş olduğum ilk uygulamam olan 
 ```bash
 git clone https://github.com/feyyazcn19/react-todo.git
 ```
-2- ```todoapp/public/index.html``` dosyasını tarayıcınızda açın. \
+2- ```react-todo/public/index.html``` dosyasını tarayıcınızda açın. \
 3- Uygulamayı kullanmaya başlayın. 
 
 ## Uygulama Üzerinde Çalışın (Configration) 🏸
