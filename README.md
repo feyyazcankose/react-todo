@@ -15,7 +15,7 @@ git clone https://github.com/feyyazcn19/react-todo.git
 ## Uygulama Üzerinde Çalışın (Configration) 🏸
 Uygulama react projesi olduğu için hem development aşamasını hemde production aşamasını repoda paylaşıyorum. 
 
-```todoapp/src/components```
+```react-todo/src/components```
 yoluna giderek react kodlarına ulaşabilirsiniz. İçerisinde güncellemeler yapabilirsiniz.
 Güncellemeleri görüntülemek için
 ```bash
